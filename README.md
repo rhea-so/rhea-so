@@ -39,4 +39,4 @@
 
 **Arcaea Recent Played:**
 
-![Arcaea Profile Counter](http://naptok.com:3000/recent?id=454875584)
+<img src="http://naptok.com:3000/recent?id=454875584">
