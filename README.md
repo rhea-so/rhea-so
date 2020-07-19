@@ -36,11 +36,11 @@
 
 <hr />
 
-**Github Status**
+**Github Status:**
 
 ![Rhea's github stats](https://github-readme-stats.vercel.app/api?username=rhea-so&show_icons=true&hide_border=true)
 
-**Profile Counter**
+**Profile Counter:**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhea-so)](https://hits.seeyoufarm.com)
 
