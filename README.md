@@ -1,11 +1,5 @@
 ### 반도에 흔한 게임 개발자 👋, 김정현입니다!
 
-<div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhea-so)](https://hits.seeyoufarm.com)
-
-</div>
-
 <br />
 
 주로 Typescript를 사용하여 SaaS를 만들거나, Module을 만들어 NPM에 배포하고 있습니다.  
@@ -40,3 +34,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ![Rhea's github stats](https://github-readme-stats.vercel.app/api?username=rhea-so&show_icons=true&hide_border=true)
+
+**Profile Counter**
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhea-so)](https://hits.seeyoufarm.com)
+
