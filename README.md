@@ -3,8 +3,6 @@
 주로 Typescript를 사용하여 SaaS를 만들거나, Module을 만들어 NPM에 배포하고 있습니다.  
 최근에는 인공지능과 Kubernetes에 관심이 많습니다.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
 **Talking about Personal Stuffs:**
 
 - 🌱 Clean code 공부 중.
