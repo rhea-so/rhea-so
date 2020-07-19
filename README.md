@@ -7,7 +7,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 🌱 Clean code studying
+- 🌱 Clean code 공부 중.
 - 🤔 좀 더 좋은 성능의 서버를 만드는 방법을 늘 고심하고 있습니다.
 - 💼 게임 서버 개발을 하고 있습니다.
 - 💬 레퍼지토리 등에 대해 궁금한 점이 있으면 언제든 연락주세요!
