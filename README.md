@@ -37,3 +37,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frhea-so)](https://hits.seeyoufarm.com)
 
+**Arcaea Recent Played:**
+
+![Arcaea Profile Counter](http://naptok.com:3000/recent?id=454875584)
