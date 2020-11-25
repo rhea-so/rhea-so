@@ -1,11 +1,3 @@
-### Software Engineer. "JeongHyeon"
-
-#### Introduce
------
-Very glad to you read this.  
-Nice to meet you, I'm Junior Software Engineer. (and Working in Seoul. Korea)  
-I'm build things what I want to create.
-
 #### Skills
 -----
 **Base:**
