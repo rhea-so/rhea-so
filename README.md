@@ -2,7 +2,7 @@
 
 `Hello, World!`
 
-> I'm Junior Software Engineer
+> I'm Junior software engineer
 
 * Cloud service (AWS)
 * Kubernetes & Docker
