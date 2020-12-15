@@ -3,3 +3,8 @@
 `Hello, World!`
 
 > I'm Junior Software Engineer
+
+* Cloud service (AWS)
+* Kubernetes & Docker
+* Zero-down time deployment
+* Javascript / Typescript
